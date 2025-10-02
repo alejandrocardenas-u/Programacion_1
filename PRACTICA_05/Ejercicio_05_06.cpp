@@ -3,7 +3,7 @@
 // Carnet: 13343885
 // Carrera del estudiante: Ingeniería Biomedica
 // Fecha creación: 01/10/2025
-// Número de ejercicio: 5
+// Número de ejercicio: 6
 
 #include <iostream>
 #include <vector>
@@ -41,4 +41,5 @@ void Suma(int N){
         cout<<"\t" <<vector1[i]<<"\t+\t"<<vector2[i]<<"\t=\t"<<vector3[i]<<endl;
     }
     
+
 }
