@@ -3,7 +3,7 @@
 // Carnet: 13343885
 // Carrera del estudiante: Ingeniería Biomedica
 // Fecha creación: 01/10/2025
-// Número de ejercicio: 5
+// Número de ejercicio: 7
 
 #include <iostream>
 #include <vector>
@@ -37,4 +37,5 @@ int main()
             cout << "Elemento "<<i+1<<" : " <<Numeros[i]<<endl;
         }
     }
+
 }
